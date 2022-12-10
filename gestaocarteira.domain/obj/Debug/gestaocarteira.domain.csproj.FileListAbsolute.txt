@@ -1,0 +1,12 @@
+/usr/src/gestaocarteira/gestaocarteira.domain/bin/gestaocarteira.domain.deps.json
+/usr/src/gestaocarteira/gestaocarteira.domain/bin/gestaocarteira.domain.dll
+/usr/src/gestaocarteira/gestaocarteira.domain/bin/gestaocarteira.domain.pdb
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/gestaocarteira.domain.csproj.AssemblyReference.cache
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/gestaocarteira.domain.GeneratedMSBuildEditorConfig.editorconfig
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/gestaocarteira.domain.AssemblyInfoInputs.cache
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/gestaocarteira.domain.AssemblyInfo.cs
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/gestaocarteira.domain.csproj.CoreCompileInputs.cache
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/gestaocarteira.domain.dll
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/refint/gestaocarteira.domain.dll
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/gestaocarteira.domain.pdb
+/usr/src/gestaocarteira/gestaocarteira.domain/obj/Debug/ref/gestaocarteira.domain.dll

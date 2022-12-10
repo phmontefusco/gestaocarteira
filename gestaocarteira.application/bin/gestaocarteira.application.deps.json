@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "gestaocarteira.application/1.0.0": {
+        "dependencies": {
+          "gestaocarteira.domain": "1.0.0"
+        },
+        "runtime": {
+          "gestaocarteira.application.dll": {}
+        }
+      },
+      "gestaocarteira.domain/1.0.0": {
+        "runtime": {
+          "gestaocarteira.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestaocarteira.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gestaocarteira.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

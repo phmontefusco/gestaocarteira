@@ -1,0 +1,15 @@
+/usr/src/gestaocarteira/gestaocarteira.application/bin/gestaocarteira.application.deps.json
+/usr/src/gestaocarteira/gestaocarteira.application/bin/gestaocarteira.application.dll
+/usr/src/gestaocarteira/gestaocarteira.application/bin/gestaocarteira.application.pdb
+/usr/src/gestaocarteira/gestaocarteira.application/bin/gestaocarteira.domain.dll
+/usr/src/gestaocarteira/gestaocarteira.application/bin/gestaocarteira.domain.pdb
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.csproj.AssemblyReference.cache
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.GeneratedMSBuildEditorConfig.editorconfig
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.AssemblyInfoInputs.cache
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.AssemblyInfo.cs
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.csproj.CoreCompileInputs.cache
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.csproj.CopyComplete
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.dll
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/refint/gestaocarteira.application.dll
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/gestaocarteira.application.pdb
+/usr/src/gestaocarteira/gestaocarteira.application/obj/Debug/ref/gestaocarteira.application.dll

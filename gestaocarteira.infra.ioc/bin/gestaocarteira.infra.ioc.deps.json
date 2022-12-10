@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "gestaocarteira.infra.ioc/1.0.0": {
+        "dependencies": {
+          "gestaocarteira.application": "1.0.0",
+          "gestaocarteira.domain": "1.0.0",
+          "gestaocarteira.infra.data": "1.0.0"
+        },
+        "runtime": {
+          "gestaocarteira.infra.ioc.dll": {}
+        }
+      },
+      "gestaocarteira.application/1.0.0": {
+        "dependencies": {
+          "gestaocarteira.domain": "1.0.0"
+        },
+        "runtime": {
+          "gestaocarteira.application.dll": {}
+        }
+      },
+      "gestaocarteira.domain/1.0.0": {
+        "runtime": {
+          "gestaocarteira.domain.dll": {}
+        }
+      },
+      "gestaocarteira.infra.data/1.0.0": {
+        "dependencies": {
+          "gestaocarteira.domain": "1.0.0"
+        },
+        "runtime": {
+          "gestaocarteira.infra.data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestaocarteira.infra.ioc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gestaocarteira.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gestaocarteira.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gestaocarteira.infra.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

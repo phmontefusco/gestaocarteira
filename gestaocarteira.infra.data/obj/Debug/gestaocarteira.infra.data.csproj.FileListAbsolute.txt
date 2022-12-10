@@ -1,0 +1,15 @@
+/usr/src/gestaocarteira/gestaocarteira.infra.data/bin/gestaocarteira.infra.data.deps.json
+/usr/src/gestaocarteira/gestaocarteira.infra.data/bin/gestaocarteira.infra.data.dll
+/usr/src/gestaocarteira/gestaocarteira.infra.data/bin/gestaocarteira.infra.data.pdb
+/usr/src/gestaocarteira/gestaocarteira.infra.data/bin/gestaocarteira.domain.dll
+/usr/src/gestaocarteira/gestaocarteira.infra.data/bin/gestaocarteira.domain.pdb
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.csproj.AssemblyReference.cache
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.GeneratedMSBuildEditorConfig.editorconfig
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.AssemblyInfoInputs.cache
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.AssemblyInfo.cs
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.csproj.CoreCompileInputs.cache
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.csproj.CopyComplete
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.dll
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/refint/gestaocarteira.infra.data.dll
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/gestaocarteira.infra.data.pdb
+/usr/src/gestaocarteira/gestaocarteira.infra.data/obj/Debug/ref/gestaocarteira.infra.data.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/gestaocarteira.web.props" />
+</Project>
